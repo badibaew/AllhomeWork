@@ -1,4 +1,3 @@
-
 const text = document.getElementById("h1");
 const btn = document.getElementById("button");
 
