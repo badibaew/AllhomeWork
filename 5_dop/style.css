@@ -64,9 +64,9 @@ ul li a ion-icon {
 }
 
 ul li:nth-child(1).active ~ #marker::before {
-  background: #7901a5;
-  box-shadow: 0 0 15px #7901a5, 0 0 30px #7901a5, 0 0 45px #7901a5,
-    0 0 60px #7901a5;
+  background: #5da6ff;
+  box-shadow: 0 0 15px #5da6ff, 0 0 30px #5da6ff, 0 0 45px #5da6ff,
+    0 0 60px #5da6ff;
 }
 
 ul li:nth-child(2).active ~ #marker::before {
@@ -76,19 +76,19 @@ ul li:nth-child(2).active ~ #marker::before {
 }
 
 ul li:nth-child(3).active ~ #marker::before {
-  background: #bcff04;
-  box-shadow: 0 0 15px #bcff04, 0 0 30px #bcff04, 0 0 45px #bcff04,
-    0 0 60px #bcff04;
+  background: #5da6ff;
+  box-shadow: 0 0 15px #5da6ff, 0 0 30px #5da6ff, 0 0 45px #5da6ff,
+    0 0 60px #5da6ff;
 }
 
 ul li:nth-child(4).active ~ #marker::before {
-  background: #ff0404;
-  box-shadow: 0 0 15px #ff0404, 0 0 30px #ff0404, 0 0 45px #ff0404,
-    0 0 60px #ff0404;
+  background: #5da6ff;
+  box-shadow: 0 0 15px #5da6ff, 0 0 30px #5da6ff, 0 0 45px #5da6ff,
+    0 0 60px #5da6ff;
 }
 
 ul li:nth-child(5).active ~ #marker::before {
-  background: #ff7700;
-  box-shadow: 0 0 15px #ff7700, 0 0 30px #ff7700, 0 0 45px #ff7700,
-    0 0 60px #ff7700;
+  background: #5da6ff;
+  box-shadow: 0 0 15px #5da6ff, 0 0 30px #5da6ff, 0 0 45px #5da6ff,
+    0 0 60px #5da6ff;
 }
